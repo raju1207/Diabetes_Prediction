@@ -1,4 +1,5 @@
 #Diabetes Prediction
+
 This repository contains a machine learning project aimed at predicting the likelihood of diabetes in individuals based on clinical and diagnostic data. The project applies various machine learning techniques and provides a full pipeline from data preprocessing to model deployment.
 
 Overview
